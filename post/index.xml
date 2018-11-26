@@ -13,6 +13,16 @@
     
     
     <item>
+      <title> Publication de mon site</title>
+      <link>/post/getting-started/</link>
+      <pubDate>Wed, 21 Nov 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/post/getting-started/</guid>
+      <description>Le contenu ici
+Mon site Du texte avec une partie en gras...</description>
+    </item>
+    
+    <item>
       <title>Test de R Markdown</title>
       <link>/post/2018-09-24-r-rmarkdown/</link>
       <pubDate>Mon, 24 Sep 2018 18:36:00 -0100</pubDate>
@@ -20,16 +30,6 @@
       <guid>/post/2018-09-24-r-rmarkdown/</guid>
       <description>Dans un document R Markdown on peut utiliser naturellement la syntaxe Markdown, mais aussi du code R dans des “chunks”, comme ci-dessous pour générer un graphique (Fig. 1) :
 par(mar = c(0, 1, 0, 1)) pie( c(280, 60, 20), c(&amp;#39;Sky&amp;#39;, &amp;#39;Sunny side of pyramid&amp;#39;, &amp;#39;Shady side of pyramid&amp;#39;), col = c(&amp;#39;#0292D8&amp;#39;, &amp;#39;#F7EA39&amp;#39;, &amp;#39;#C4B632&amp;#39;), init.angle = -50, border = NA )  Figure 1: Un superbe graphique en camembert.  </description>
-    </item>
-    
-    <item>
-      <title>Mon premier blog</title>
-      <link>/post/getting-started/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
-      
-      <guid>/post/getting-started/</guid>
-      <description>Le contenu ici
-Un titre Du texte avec une partie en gras...</description>
     </item>
     
   </channel>
